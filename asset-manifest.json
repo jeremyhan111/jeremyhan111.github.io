@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.a936552e.css",
-  "main.css.map": "static/css/main.a936552e.css.map",
-  "main.js": "static/js/main.3b0fcd3b.js",
-  "main.js.map": "static/js/main.3b0fcd3b.js.map",
+  "main.css": "static/css/main.0b8c7191.css",
+  "main.css.map": "static/css/main.0b8c7191.css.map",
+  "main.js": "static/js/main.f34cf454.js",
+  "main.js.map": "static/js/main.f34cf454.js.map",
   "static/media/comment-button.PNG": "static/media/comment-button.32e58990.PNG",
   "static/media/cover-photo.png": "static/media/cover-photo.b091125c.png",
   "static/media/fb-earth-logo.PNG": "static/media/fb-earth-logo.bad8ab43.PNG",
@@ -18,6 +18,5 @@
   "static/media/photo-8.jpg": "static/media/photo-8.4d92dc80.jpg",
   "static/media/photo-9.jpg": "static/media/photo-9.adc6b79d.jpg",
   "static/media/photos-icon.PNG": "static/media/photos-icon.09202a44.PNG",
-  "static/media/share-button.PNG": "static/media/share-button.d4231b81.PNG",
-  "static/media/styles.scss": "static/media/styles.977b97b0.scss"
+  "static/media/share-button.PNG": "static/media/share-button.d4231b81.PNG"
 }
